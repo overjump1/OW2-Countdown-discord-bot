@@ -17,7 +17,7 @@ This script sets up a Discord bot that periodically checks the ow2 countdown RSS
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/overwatch2countdownbot.git
+   git clone https://github.com/overjump1/OW2-Countdown-discord-bot.git
    ```
 
 2. Install the required dependencies:
